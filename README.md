@@ -10,3 +10,7 @@
 
 ### 🛢 Databases and ORMs
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+
+
+
+![snake gif](https://github.com/alexis-dpt/alexis-dpt/blob/output/github-contribution-grid-snake.gif)
