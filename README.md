@@ -1,5 +1,5 @@
 ## Hello, I'm Alexis👋💻
-### A yung cybersecurity engineer
+### Cybersecurity Apprentice & Developper 👾
 
 ## 😉 About Me:
 - 🎂 I'm 14
