@@ -13,4 +13,4 @@
 
 
 
-![snake gif](https://github.com/alexis-dpt/alexis-dpt/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/MeghnaS21/MeghnaS21/ddbbea7e33396d5881fcfa3f098e5ac128ec936e/github-snake-dark.svg)
