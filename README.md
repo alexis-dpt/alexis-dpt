@@ -11,6 +11,6 @@
 ### 🛢 Databases and ORMs
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
-
+### 🟩 My Contributions 
 
 ![snake gif](https://raw.githubusercontent.com/MeghnaS21/MeghnaS21/ddbbea7e33396d5881fcfa3f098e5ac128ec936e/github-snake-dark.svg)
