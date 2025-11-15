@@ -1,5 +1,5 @@
 ## Hello, I'm Alexis 👋💻  
-### Cybersecurity Apprentice & Developer 👾
+### Developer Apprentice 👾
 
 ## 😉 About Me
 - 🎂 I'm **15 years old**
