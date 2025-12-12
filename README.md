@@ -1,4 +1,4 @@
-## Hello, I'm Alexis 👋💻  
+## Hello, I'm Alexis ! 👋💻  
 ### Developer Apprentice 👾
 
 ## 😉 About Me
